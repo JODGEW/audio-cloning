@@ -1,5 +1,6 @@
 # audio-cloning
 Deep Learning project for cloning judges voice in civil rights case Brown v. Board of Education
+
 Supervised by [Dr. David S. Doermann](https://cse.buffalo.edu/~doermann/)
 
 [Audio Cloning on Historical Figures](https://github.com/JODGEW/audio-cloning/files/14984915/AudioCloning_Paper.pdf)
